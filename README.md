@@ -47,7 +47,7 @@ Once you upload the files, your bucket will be look like the following
 ![s3 bucket](https://user-images.githubusercontent.com/61390678/212608231-f56d13bc-6a18-4454-950a-a322bbd9554e.png)
 
 
-## Step 3 -Creating SSL certificate
+## Step 3 -Generating SSL certificate
 
 ==========================
 
@@ -123,7 +123,7 @@ Once you upload the files, your bucket will be look like the following
 
  You have to wait for a few moment for the DNS propagation.
  
- Once it is propagated, we can access the website by mywebsite.antonyan.tech (In this example)
+ Once it is propagated, we can access the website by mywebsite.antonyan.tech (In this example).
  
  ![website](https://user-images.githubusercontent.com/61390678/212609244-71e4d0ce-64d6-47f2-a0d8-edfa970871f7.png)
 
